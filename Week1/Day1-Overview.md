@@ -3,7 +3,8 @@
 (Always subject to change)
 
 - Topics
-  -N/A
+  -Introduction to Visual Studio
+  -Basic C#
 - Reference Materials
   -N/A
 - Problems/Projects
