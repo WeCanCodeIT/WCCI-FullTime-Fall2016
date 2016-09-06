@@ -53,19 +53,49 @@
   - Final Project
   - Scrum
 
-# Usage
 
-This repository is intended for instructors to collaborate and develop curriculum resources. Access should be limited to WCCI instructors. To actually use these documents, manually copy them into new repositories for each cohort.
+# Grading Policy
 
-# Grading
+Class is from 5:45pm-9:00pm Monday-Thursday, with the exception of holidays on which we will not be having class.
 
-Homework assignments are self-graded by students the day they are due. They assign themselves a grade of 1 (Incomplete), 2 (Not Yet), 3 (Meets Requirements), or 4 (Outstanding). These map to 0%, 70%, 85%, and 100% respectively.
+You are required to attend a minimum of 90% of class time to be eligible for graduation. Please inform your instructor and TA if extenuating circumstances arise.
 
-Each homework assignment is worth 5 points toward the overall cumulative grade.
+In order to pass the course, you must receive a grade of 70% or higher averaged over all the assignments. You must also complete every assignment - any assignments considered **incomplete** must be resubmitted before the end of the course. Finally, you must receive a grade of 70% or higher on the final project.
 
-Projects are graded by staff. Each project has a breakdown of tasks, each of which counts toward the overall total of points for the project. Each task is considered Incomplete, Not Yet, or Complete, worth 0%, 60%, or 100% respectively.
+## Homework Assignments
 
-The tasks are scaled to count for 90 total points of a project. Additionally, Overall Code Quality is judged subjectively and counts for 10 points of a project, for each project being worth a total of 100 points.
+Homework assignments are self-graded, with students marking each assignment in one of four categories. These categories map to a certain number of points out of 5 possible points for each homework assignment, as outlined below:
 
-Final projects are worth 100 points per week of the project. If the timing causes final projects to take 3 weeks, they will be worth 300 points total. These are graded based upon teams' abilities to meet milestones, factoring in contributions TBD.
+**Incomplete**: 0/5
+**Not Yet**: 3.5/5
+**Meets Requirements**: 4.25/5
+**Outstanding**: 5/5
 
+Self-graded assignments will not be calculated in your grade, but should be used as a way to track your progress.
+
+You must submit your assignments when they are due, whether or not they are complete or you feel 100% confident in your work. Homework assignments will act primarily as indicators of how you are currently feeling in the moment.
+
+## Projects
+
+Projects are graded by WCCI staff. Projects are typically worth 100 points. 90 points of each project will be determined by the tasks that are completed, with attempts resulting in partial credit for a given task. The final 10 points of each project are determined by overall code quality, including code readability, proper variable names, and comments when necessary.
+
+Projects must be turned in by the date and time specified on the project information page, or else they will receive a late penalty of 10% for each day that the project is late, up to 5 days. After 5 days, the project should still be submitted in order to get credit for project completion per course requirements.
+
+## Final Projects
+
+Final projects will be worth 100 points per week worked on the project, with each week graded independently. These grades will be determined based upon the milestones set for each project and how well those milestones were met.
+
+
+# Course Resources
+
+This repository will contain (links to) useful resources, such as code developed in class, slides, reading material, etc. On top of that, there is one required book and a couple other books that you may find useful. You can go with paper or electronic versions, and you may want to check Amazon or other booksellers (the links below go directly to the publishers).
+
+Required Textbook:
+- _[The C# Player's Guide](http://starboundsoftware.com/books/c-sharp/)_, by RB Whitaker
+
+Optional Textbooks:
+- _[Database Design for Mere Mortals](http://www.informit.com/store/database-design-for-mere-mortals-a-hands-on-guide-to-9780321884497)_, by Michael J. Hernandez
+- _[ASP.NET MVC 5 with Boostrap and Knockout.js](http://shop.oreilly.com/product/0636920035350.do)_, by Jamie Munro
+
+Free Digital Textbook
+- _[Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/downloads/)_ (aka _The Bulgarian Book_), by Svetlin Nakov, Veselin Kolev and team
