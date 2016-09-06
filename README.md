@@ -64,14 +64,7 @@ In order to pass the course, you must receive a grade of 70% or higher averaged 
 
 ## Homework Assignments
 
-Homework assignments are self-graded, with students marking each assignment in one of four categories. These categories map to a certain number of points out of 5 possible points for each homework assignment, as outlined below:
-
-**Incomplete**: 0/5
-**Not Yet**: 3.5/5
-**Meets Requirements**: 4.25/5
-**Outstanding**: 5/5
-
-Self-graded assignments will not be calculated in your grade, but should be used as a way to track your progress.
+Homework assignments are self-graded, with students marking each assignment in one of four categories. These categories map to a certain number of points out of 5 possible points for each homework assignment.
 
 You must submit your assignments when they are due, whether or not they are complete or you feel 100% confident in your work. Homework assignments will act primarily as indicators of how you are currently feeling in the moment.
 
