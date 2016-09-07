@@ -17,4 +17,4 @@
   - Git [Try Git](https://try.github.io)
   - Follow up with Cynthia
     - Connect with her on linkedIn
-    - Email the lastest copy of your Resume
+    - Email the latest copy of your Resume
