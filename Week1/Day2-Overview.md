@@ -5,12 +5,12 @@
 
 
 - Topics
-  -Introduction to git
-  -Intro to C# (cont.)
-  -Variables, Operators, Expressions, Basic Types
-  -Conditionals
+  - Introduction to git
+  - Intro to C# (cont.)
+  - Variables, Operators, Expressions, Basic Types
+  - Conditionals
 
 - Reference Materials
-  -N/A
+  - N/A
 - Problems/Projects
   - N/A
