@@ -3,6 +3,7 @@
 
 (Always subject to change)
 
+
 - Topics
   -Introduction to git
   -Intro to C# (cont.)
