@@ -22,10 +22,9 @@
   - Intro to OOP
   - Lists and Dictionaries
   - Building Classes - Methods and Properties
-  - StringBuilder and RegEx
+  - StringBuilder
 - Week 3
   - Inheritance
-  - TDD
   - Exceptions and File I/O
 - Week 4
   - HTML
@@ -49,6 +48,8 @@
   - JSON and APIs
 - Week 9
   - Advanced MVC
+  - TDD
+  - RegEx
 - Weeks 10-12
   - Final Project
   - Scrum
