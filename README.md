@@ -17,8 +17,8 @@
   - Variables, Operators, Expressions, Basic Types
   - Conditionals
   - Strings and Text Processing
-  - Loops and Arrays
 - Week 2
+  - Loops and Arrays
   - Intro to OOP
   - Lists and Dictionaries
   - Building Classes - Methods and Properties
