@@ -22,7 +22,6 @@
   - Intro to OOP
   - Lists and Dictionaries
   - Building Classes - Methods and Properties
-  - StringBuilder
 - Week 3
   - Inheritance
   - Exceptions and File I/O
@@ -50,6 +49,7 @@
   - Advanced MVC
   - TDD
   - RegEx
+  - StringBuilder
 - Weeks 10-12
   - Final Project
   - Scrum
