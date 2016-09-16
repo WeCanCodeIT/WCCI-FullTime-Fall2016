@@ -12,4 +12,4 @@
   - [Lists](https://docs.google.com/a/wecancodeit.org/presentation/d/1QxqlIIKN7rv_-Bud3t_PPU9RjrPIGCAR9gndzBX-3gg/edit?usp=sharing)
   - [Dictionaries](https://docs.google.com/presentation/d/1PdN-CAQi3QQE8zXP4D6OM9BOzsM07k19e3XRDj4GJsY/edit?usp=sharing)
 - Problems/Projects
-- [Virtual Pet](Assignments/VirtualPet/)
+  - [Virtual Pet](Assignments/VirtualPet/)
