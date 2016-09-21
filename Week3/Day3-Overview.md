@@ -4,8 +4,8 @@
 
 - Topics
   - Review Rock, Paper, Scissors
-  - Inheritance
-  - Static Classes and Static Members
+  - Interfaces
+  - Streams, StreamReader & StreamWriter
 
 - Reference Materials
   - [Streams, StreamReader & StreamWriter](https://docs.google.com/a/wecancodeit.org/presentation/d/1L3v03UQC6jL9vl9xOTZtoWICNm9kCFvchOHImsw75X0/edit?usp=sharing)
