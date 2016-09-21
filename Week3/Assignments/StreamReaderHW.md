@@ -1,4 +1,4 @@
-#StreamReader Classwork
+#StreamReader Homework
 
 ##Directions
 Complete the folowing tasks using the text file called "Shakespeare" located in the Assignments folder.
