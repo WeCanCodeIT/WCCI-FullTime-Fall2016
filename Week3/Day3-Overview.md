@@ -10,3 +10,4 @@
 - Reference Materials
   - [Streams, StreamReader & StreamWriter](https://docs.google.com/a/wecancodeit.org/presentation/d/1L3v03UQC6jL9vl9xOTZtoWICNm9kCFvchOHImsw75X0/edit?usp=sharing)
 - Problems/Projects
+  - [StreamReader Homework](Assignments/StreamReaderHW.md)
