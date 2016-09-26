@@ -17,4 +17,4 @@
     - [ ] [HTML Elements](http://www.w3schools.com/html/html_elements.asp)
     - [ ] [HTML Attributes](http://www.w3schools.com/html/html_attributes.asp)
 - Structure
-   -[Structure](Assignments/01-structure/)
+   - [Structure](Assignments/01-structure/)
