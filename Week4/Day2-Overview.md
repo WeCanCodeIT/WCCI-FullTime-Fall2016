@@ -21,3 +21,4 @@
     - [ ] [CSS How To](http://www.w3schools.com/css/css_howto.asp)
     - [ ] [CSS Colors](http://www.w3schools.com/css/css_colors.asp)
     - [ ] [CSS Combinators](http://www.w3schools.com/css/css_combinators.asp)
+  - [Never Go Out](Assignments/02-never-go-out/)
