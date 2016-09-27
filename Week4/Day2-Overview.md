@@ -14,6 +14,7 @@
   - [Intro to CSS](https://docs.google.com/presentation/d/1y1mQfYIBUxZs_G2bxknEPqfG95GtIH9aa94wickWSeA/edit?usp=sharing)
   
 - Problems/Projects
+  - [Never Go Out](Assignments/02-never-go-out/)
   - CSS
     - [ ] [W3Schools CSS Tutorial](http://www.w3schools.com/css/)
     - [ ] [CSS Introduction](http://www.w3schools.com/css/css_intro.asp)
@@ -21,4 +22,3 @@
     - [ ] [CSS How To](http://www.w3schools.com/css/css_howto.asp)
     - [ ] [CSS Colors](http://www.w3schools.com/css/css_colors.asp)
     - [ ] [CSS Combinators](http://www.w3schools.com/css/css_combinators.asp)
-  - [Never Go Out](Assignments/02-never-go-out/)
