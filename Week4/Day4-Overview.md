@@ -13,3 +13,4 @@
   - [Additional resources - W3 Schools](http://www.w3schools.com/bootstrap/)
   
 - Problems/Projects
+- [Scavenger Hunt](Assignments/04-scavenger-hunt/)
