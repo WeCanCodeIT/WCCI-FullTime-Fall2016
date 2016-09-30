@@ -4,7 +4,8 @@
 
 - Topics
   - Bootstrap
-  -  Homework review
+  - Homework review
+  - Project work
   
 - Reference Materials
   - [Bootstrap](http://getbootstrap.com/)
