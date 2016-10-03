@@ -93,3 +93,6 @@ Optional Textbooks:
 
 Free Digital Textbook
 - _[Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/downloads/)_ (aka _The Bulgarian Book_), by Svetlin Nakov, Veselin Kolev and team
+
+
+© 2016 We Can Code IT ALL RIGHTS RESERVED
