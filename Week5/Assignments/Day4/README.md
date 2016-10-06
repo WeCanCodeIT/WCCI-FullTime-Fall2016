@@ -2,7 +2,7 @@
 
 ## Overview
 
-Create an MVC app that will allow users to create events and track RSVPs to the events.
+Create an MVC app that will allow users to create events and track number of RSVPs to the events.
 
 ## Tasks
 
@@ -28,7 +28,7 @@ Create an MVC app that will allow users to create events and track RSVPs to the 
 
 Implement an MVC app from start to finish. Here's a user story for the app:
 
-> Sally wants to host coding experience evenings, and she wants to keep track of the number of people that are attending each one. After she sets one up, she wants to be able to send a link out to her mailing lists.
+> Sally wants to host coding experience evenings, and she wants to keep track of the number of people that are attending each one. After she sets one up, she wants to be able to send a link out to her mailing lists. This link should show the event, any details tied to the event, and show the number of people attending.
 
 
 
