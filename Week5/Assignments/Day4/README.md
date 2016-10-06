@@ -1,6 +1,6 @@
 # Greet Up
 
--  * [Submission Link](https://goo.gl/forms/klAY4tUOb1Kw9xdq1)*
+-  * [Submission Link](https://goo.gl/forms/klAY4tUOb1Kw9xdq1)* Please mention who you were paired up with.
 
 ## Overview
 
