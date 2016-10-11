@@ -8,6 +8,6 @@
   - Relational Databases and Database Design
 
 - Problems/Projects
-  - [Relational Databases and Database Design](https://docs.google.com/a/wecancodeit.org/presentation/d/1YXyj5DEUwVsxPYez5UqyNPInWFVPbzXGn5GLcTyTIZc/edit?usp=sharing)
+  - [Relational Databases and Database Design](https://docs.google.com/presentation/d/1C22bQhknL34QW85iaMa5mumTprDXnzk279ErWFOo45I/edit#slide=id.p)
 
 
