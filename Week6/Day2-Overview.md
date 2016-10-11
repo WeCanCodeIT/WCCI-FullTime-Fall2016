@@ -11,6 +11,7 @@
   - [Relational Databases and Database Design](https://docs.google.com/presentation/d/1C22bQhknL34QW85iaMa5mumTprDXnzk279ErWFOo45I/edit#slide=id.p)
   
 - Homework
+
 Tonight's homework will involve designing tables in SQL Server Management Studio.
 
 - Create one table to collect Employee Information for a new hire. What fields would you include? What data types for those fields 
