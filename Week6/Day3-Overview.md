@@ -8,4 +8,5 @@
   - [LINQ](https://docs.google.com/a/wecancodeit.org/presentation/d/1bIPsm1LCUeOloRoVgdgAu04snxhz-qWKHRTCEk1mclQ/edit?usp=sharing)
   
 - Problems/Projects
+  - [SQL-ZooKeeper](https://github.com/WeCanCodeIT/WCCI-FullTime-Fall2016/blob/master/Week6/Assignments/SQL-Zookeeper.md)
   
