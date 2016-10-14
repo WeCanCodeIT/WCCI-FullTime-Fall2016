@@ -6,7 +6,7 @@ Create a web application for managing the contents of your wardrobe. The app wil
 
 ## Due
 
-This project is due **Monday, 10/17/2016, at 9:30 AM**. 
+This project is due **Tuesday, 10/18/2016, at 9:30 AM**. 
 
 ## Tasks
 
