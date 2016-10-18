@@ -8,4 +8,5 @@
   
 - Problems/Projects
   - [InClassJSDemo] (https://github.com/WeCanCodeIT/InClassJSDemo)
+  - Read [JS For Cats] (http://jsforcats.com/)
   
