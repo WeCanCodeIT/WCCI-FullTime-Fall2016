@@ -36,3 +36,5 @@ The required tasks of this assignment will lead to a very bare-bones 8-ball. You
 Use IDs to signify special elements in your html, and use `document.getElementById` to target that element. You can change the contents with the `innerHTML` property.
 
 Play around in the console to investigate the properties of elements that are modifiable.
+
+* [Submission Link](https://goo.gl/forms/klAY4tUOb1Kw9xdq1)*
