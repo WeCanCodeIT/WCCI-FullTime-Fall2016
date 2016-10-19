@@ -9,3 +9,6 @@
   
 - Resources
   - [jQuery Tutorial](http://try.jquery.com/levels/1/challenges/1)
+  
+- Projects
+  - [Magic8Ball] (https://github.com/WeCanCodeIT/WCCI-FullTime-Fall2016/blob/master/Week7/Assignments/Magic8-Ball.md)
