@@ -3,6 +3,7 @@
 (Always subject to change)
 
 - Topics
+  - Career Presentation by Cynthia
   - The Document Object Model (DOM)
   - jQuery
   
