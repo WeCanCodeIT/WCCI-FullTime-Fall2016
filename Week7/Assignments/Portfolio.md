@@ -70,3 +70,5 @@ You may want to use Bootstrap to get things started, but probably don't want to 
 Don't worry about getting things pixel-perfect right now. Get the structure in place so that you can make a great responsive site, and update the CSS as you get more comfortable coding.
 
 Make sure that all the images you use are in your project folder and that you aren't just hotlinking them from the web somewhere.
+
+* [Submission Link](https://goo.gl/forms/klAY4tUOb1Kw9xdq1)*
