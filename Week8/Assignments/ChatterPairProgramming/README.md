@@ -33,10 +33,6 @@ Create an MVC web application and deploy it.
 
 You and your partner will be building and deploying an app from the ground up. The app will involve user authentication and multiple model classes.
 
-You can choose from the following apps:
-
-- **Welp**: Welp will be used to share reviews of local businesses. Users of the app will be able to search for businesses, post reviews/ratings, and look up menu information for restaurants.
-- **Greet-Up**: Greet-Up will be used to organize event information and track RSVPs. Users of the app will be able to post event info, including location, time, and date, and other users can then RSVP to events.
 - **Chatter**: Chatter is a "microblogging" service that allows users to post "chats": short messages (<150 characters). Users can "follow" other users, and when they visit the site, they see the most recent "chats" from all the users they follow.
 
 You will need to create classes for your model. Create them using code-first to simplify deployment.
@@ -79,16 +75,10 @@ http://stackoverflow.com/questions/35906059/asp-mvc5-identity-how-to-get-current
 
 ### Followers
 
-If you're attempting the Chatter project, one of the challenges is keeping track of "followers". You will need to create/modify the `OnModelCreating` method of the `ApplicationDbContext` class (in `IdentityModels.cs`).
+In the Chatter project, one of the challenges is keeping track of "followers". You will need to create/modify the `OnModelCreating` method of the `ApplicationDbContext` class (in `IdentityModels.cs`).
 
 This Stack Overflow question may shed some light:
 
 http://stackoverflow.com/questions/31499265/followers-schema-in-entity-framework
 
-### Multiple Foreign Keys to Same Table
-
-In Greet-Up, you may want to have a table that has multiple foreign keys to the same table. In this case, you'll need to give them different column names.
-
-This Stack Overflow question may shed some light:
-
-http://stackoverflow.com/questions/28582454/ef-6-how-to-set-two-foreign-keys-to-same-table
+  * [Submission Link](https://goo.gl/forms/klAY4tUOb1Kw9xdq1)*
