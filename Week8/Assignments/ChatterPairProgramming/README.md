@@ -50,6 +50,8 @@ Make the app better! Allow users to log in using their existing Google/Facebook/
 
 ## Hints
 
+[MUST READ LINK!!](https://www.asp.net/mvc/overview/security/create-an-aspnet-mvc-5-app-with-facebook-and-google-oauth2-and-openid-sign-on)
+
 Target your MVP first! Focus on getting the required features together first, and build from there.
 
 Specific MVC hints:
