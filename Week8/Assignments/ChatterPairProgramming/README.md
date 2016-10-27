@@ -4,6 +4,8 @@
 
 Create an MVC web application and deploy it.
 
+DUE Friday, October 28th at 5:00pm
+
 ## Tasks
 
 ### Required Tasks
@@ -20,7 +22,7 @@ Create an MVC web application and deploy it.
   - [ ] Limit actions based upon whether or not a user is logged-in
 - [ ] Deploy
   - [ ] Thoroughly test your application on both group members' machines
-  - [ ] Deploy the app to Azure on both group members' accounts
+  - [ ] Deploy the app to AppHarbor on both group members' accounts
 
 ### Stretch Tasks
 
