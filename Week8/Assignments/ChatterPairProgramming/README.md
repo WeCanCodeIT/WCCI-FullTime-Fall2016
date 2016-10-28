@@ -4,7 +4,7 @@
 
 Create an MVC web application and deploy it.
 
-DUE Friday, October 28th at 5:00pm
+DUE Monday, October 30th at 5:00pm
 
 ## Tasks
 
