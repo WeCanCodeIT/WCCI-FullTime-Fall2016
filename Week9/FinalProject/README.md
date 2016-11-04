@@ -12,7 +12,7 @@
             - Can grade other team members anywhere between 0 and 10, unlike other four aspects of sprint grading
           - Lowest score is dropped, 3 remaining scores are averaged
       - Grading of Final Version of Project (100 points total)
-        - For each of the following aspects, you can get the following number of points:
+        - For each of the ten aspects below, you can get the following number of points:
           - Yes: 10, Partially: 6, No: 0
         - Site is deployed and live
         - Site is responsive to mobile
