@@ -1,0 +1,31 @@
+- Final Projects
+  - Will be graded as following
+    - 50 Points per sprint
+      - 10 points for each of the following five things (can get 10 points for "Yes", 6 points for "Partially", or 0 points for "No")
+        - Student communicated consistently with team re: progress (daily scrum, Slack, planning/retrospective meetings)
+        - Student made effort to complete tasks assigned
+        - Student was supportive of other team members
+        - Student delivered high quality code
+        - 10 points from Team
+          - Every team member rates every team member 0-10 (including themselves!).
+          - 0 = they didn't contribute at all, 10 = they were a vital contributor to the success of the sprint
+            - Can grade other team members anywhere between 0 and 10, unlike other four aspects of sprint grading
+          - Lowest score is dropped, 3 remaining scores are averaged
+      - Grading of Final Version of Project (100 points total)
+        - For each of the ten aspects below, you can get the following number of points:
+          - Yes: 10, Partially: 6, No: 0
+        - Site is deployed and live
+        - Site is responsive to mobile
+        - Site is functional - every public facing feature has to be accessible through a link and working
+        - Site is robust/resistant to user breakage
+          - Example: leaving form fields blank shouldn't result in a server error
+        - Site must properly cite all students and any other resources used as specified in their licenses
+          - Include links to team portfolios/resumes
+        - Site addresses the need initially identified in the pitch
+          - Team completed the vision of the product owner
+        - Site is user-friendly - user experience is a priority
+        - Site has good design/aesthetics
+          - Doesn't look like "default bootstrap"
+          - Professional, thematically styled
+        - Code quality: Maximum of 10 points
+          - 0 = Completely unreadable code, 10 = Incredibly readable/effective code
