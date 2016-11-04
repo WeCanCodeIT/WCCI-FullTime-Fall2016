@@ -9,7 +9,7 @@
         - 10 points from Team
           - Every team member rates every team member 0-10 (including themselves!).
           - 0 = they didn't contribute at all, 10 = they were a vital contributor to the success of the sprint
-            - Can grade other team members anywhere between 0 and 10, unlike other four aspects of Sprint grading
+            - Can grade other team members anywhere between 0 and 10, unlike other four aspects of sprint grading
           - Lowest score is dropped, 3 remaining scores are averaged
       - Grading of Final Version of Project (100 points total)
         - For each of the following aspects, you can get the following number of points:
