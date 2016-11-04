@@ -2,7 +2,7 @@
   - Will be graded as following
     - 50 Points per sprint
       - 10 points for each of the following five things (can get 10 points for "Yes", 6 points for "Partially", or 0 points for "No")
-        - Student communicated consistently with team re: progress (daily scrum, slack, planning/retrospective meetings)
+        - Student communicated consistently with team re: progress (daily scrum, Slack, planning/retrospective meetings)
         - Student made effort to complete tasks assigned
         - Student was supportive of other team members
         - Student delivered high quality code
