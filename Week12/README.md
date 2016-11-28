@@ -9,6 +9,7 @@ _(Always subject to change)_
 - Deploy project
 
 # Day 3
+- Final sprint meetings
 - Presentation practice
 - Career Day Prep
 
